@@ -11,6 +11,8 @@ State management made super simple
 
 </div>
 
+<h2>Updated react peer dependency to 17.x</h2>
+
 <h2>📦 Installation</h2>
 
     $ npm install little-state-machine-devtools

@@ -1,7 +1,7 @@
 {
-  "name": "little-state-machine-devtools",
+  "name": "@local/little-state-machine-devtools",
   "sideEffects": false,
-  "version": "2.0.1",
+  "version": "@local/2.0.1",
   "types": "dist/index.d.ts",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,6 @@
     "state",
     "flux"
   ],
-  "repository": "git@github.com:bluebill1049/little-state-machine.git",
   "author": "<bluebill1049@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -46,8 +45,8 @@
   },
   "peerDependencies": {
     "little-state-machine": "^4.0.0",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "dependencies": {
     "little-state-machine": "^4.0.0",
